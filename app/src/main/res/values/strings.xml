@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android3011</string>
+    <string name="hello_message">Hello everyone</string>
+    <string name="age">Age</string>
+    <string name="silent">Silent</string>
+    <string name="moon">Moon</string>
+    <string name="we_are_what_we_do">We are what we do</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="thoundsand_of_people_usign_silent_mooon_for_small_mediation">Thoundsand of people usign silent mooon for small mediation</string>
+    <string name="todo">TODO</string>
+    <string name="already_have_an_account">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="log_in">LOG IN</string>
+</resources>
