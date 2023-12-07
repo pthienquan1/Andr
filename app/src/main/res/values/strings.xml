@@ -10,4 +10,11 @@
     <string name="todo">TODO</string>
     <string name="already_have_an_account">ALREADY HAVE AN ACCOUNT?</string>
     <string name="log_in">LOG IN</string>
+    <string name="title_activity_siginin">activity_siginin</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="continue_with_facebook">continue with facebook</string>
+    <string name="or_login_with_email">OR LOGIN WITH EMAIL</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
 </resources>
