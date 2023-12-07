@@ -17,4 +17,9 @@
     <string name="email_address">Email address</string>
     <string name="password">Password</string>
     <string name="forgot_password">Forgot Password ?</string>
+    <string name="continue_with_google">continue with google</string>
+    <string name="_123456789">123456789</string>
+    <string name="i_have_read_the">I have read the</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="get_started">get started</string>
 </resources>
